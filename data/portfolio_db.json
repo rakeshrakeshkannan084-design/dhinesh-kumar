@@ -1,0 +1,250 @@
+{
+  "profile": {
+    "name": "DHINESH KUMAR",
+    "brand": "DHINESH KUMAR CREATIVE STUDIO",
+    "title": "Professional Video Editor, Film Director & Master Colorist",
+    "phone": "9360302306",
+    "email": "2kdhinesh2k@gmail.com",
+    "location": "Ramanathapuram, Tamil Nadu & Worldwide",
+    "bio": "Professional Video Editor and creative filmmaker specializing in commercial video editing, cinematic pacing, DaVinci Resolve color science, and high-fidelity visual storytelling. Over 8+ years collaborating with international brands, creators, and commercial productions.",
+    "avatar": "/assets/dhinesh_video_editor.jpg",
+    "stats": {
+      "projectsCompleted": 260,
+      "videosEdited": 94,
+      "photosRetouched": 1450,
+      "clientSatisfaction": 99.8,
+      "experienceYears": 8
+    }
+  },
+  "categories": {
+    "photos": [
+      "All",
+      "Editorial Fashion",
+      "Cinematic Street",
+      "Studio Portrait",
+      "Commercial",
+      "Architecture"
+    ],
+    "videos": [
+      "All",
+      "Director Showreel",
+      "Commercial Ads",
+      "Music Videos",
+      "Color Grading",
+      "Documentary"
+    ],
+    "documents": [
+      "All",
+      "Project Briefs",
+      "Contracts & Rates",
+      "Resumes & CV",
+      "Tech Specs",
+      "Brand Guidelines"
+    ]
+  },
+  "items": [
+    {
+      "id": "photo-1",
+      "type": "photo",
+      "title": "Vogue Avant-Garde Editorial",
+      "description": "High-contrast monochrome and golden lighting studio portrait featuring sculptural silhouettes and medium format Hasselblad capture.",
+      "category": "Editorial Fashion",
+      "url": "/src/assets/images/photo_editorial_fashion_1794229046225.jpg",
+      "thumbnail": "/src/assets/images/photo_editorial_fashion_1794229046225.jpg",
+      "sizeBytes": 2450000,
+      "mimeType": "image/jpeg",
+      "dimensions": "4000 x 3000",
+      "featured": true,
+      "createdAt": "2026-11-04T13:07:24.037Z",
+      "tags": [
+        "Fashion",
+        "Editorial",
+        "Studio",
+        "Gold & Noir"
+      ]
+    },
+    {
+      "id": "photo-2",
+      "type": "photo",
+      "title": "Neon Rain Reflections — Shinjuku Midnight",
+      "description": "Atmospheric 35mm night street capture balancing amber lantern warmth with deep violet cyber neon light spill on rain-slicked asphalt.",
+      "category": "Cinematic Street",
+      "url": "/src/assets/images/photo_cinematic_street_1794229046276.jpg",
+      "thumbnail": "/src/assets/images/photo_cinematic_street_1794229046276.jpg",
+      "sizeBytes": 3120000,
+      "mimeType": "image/jpeg",
+      "dimensions": "3840 x 2880",
+      "featured": true,
+      "createdAt": "2026-10-28T13:07:24.037Z",
+      "tags": [
+        "Street",
+        "Cinematic",
+        "Neon",
+        "Rain"
+      ]
+    },
+    {
+      "id": "photo-3",
+      "type": "photo",
+      "title": "DHINESH KUMAR — Master Video Editing Studio",
+      "description": "Dhinesh Kumar at his master editing suite with Adobe Premiere Pro timelines, color grading wheels, RGB gaming PC, and DREAM • EDIT • REPEAT neon backdrop.",
+      "category": "Studio Portrait",
+      "url": "/assets/dhinesh_video_editor.jpg",
+      "thumbnail": "/assets/dhinesh_video_editor.jpg",
+      "sizeBytes": 2890000,
+      "mimeType": "image/jpeg",
+      "dimensions": "2048 x 2048",
+      "featured": true,
+      "createdAt": "2026-11-07T13:07:24.037Z",
+      "tags": [
+        "Video Editor",
+        "Dhinesh Kumar",
+        "Premiere Pro",
+        "Editing Studio"
+      ]
+    },
+    {
+      "id": "video-1",
+      "type": "video",
+      "title": "Official Cinematic Director Showreel 2026",
+      "description": "Comprehensive director cut comprising commercial fashion campaigns, high-energy automotive spots, and music video color grades in 4K DCI.",
+      "category": "Director Showreel",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnail": "/src/assets/images/video_showreel_thumb_1794229047119.jpg",
+      "sizeBytes": 28400000,
+      "mimeType": "video/mp4",
+      "duration": "02:45",
+      "featured": true,
+      "createdAt": "2026-11-06T13:07:24.037Z",
+      "tags": [
+        "Showreel",
+        "Color Grading",
+        "ARRI Alexa",
+        "4K"
+      ]
+    },
+    {
+      "id": "video-2",
+      "type": "video",
+      "title": "Obsidian — Luxury Watch Brand Commercial",
+      "description": "Macro cinematography and 1000fps slow-motion captures highlighting titanium craftsmanship, mechanical tourbillon, and dark gold luxury tone curve.",
+      "category": "Commercial Ads",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnail": "/assets/aistudio/IMG_6153.JPG_7ebde17b.jpeg",
+      "sizeBytes": 19800000,
+      "mimeType": "video/mp4",
+      "duration": "01:30",
+      "featured": true,
+      "createdAt": "2026-10-22T13:07:24.037Z",
+      "tags": [
+        "Commercial",
+        "Luxury",
+        "Slow Motion",
+        "Sound Design"
+      ]
+    },
+    {
+      "id": "video-3",
+      "type": "video",
+      "title": "KAVITHAI — Indie Music Film & Visualizer",
+      "description": "A lyrical visual odyssey edited with rhythmic match cuts, film burn transitions, and vintage Kodak 250D emulation.",
+      "category": "Music Videos",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "thumbnail": "/src/assets/images/photo_cinematic_street_1794229046276.jpg",
+      "sizeBytes": 15400000,
+      "mimeType": "video/mp4",
+      "duration": "03:12",
+      "featured": false,
+      "createdAt": "2026-10-15T13:07:24.037Z",
+      "tags": [
+        "Music Video",
+        "Kodak 250D",
+        "Indie",
+        "Transitions"
+      ]
+    },
+    {
+      "id": "doc-1",
+      "type": "document",
+      "title": "Dhinesh_Kumar_Creative_Director_Resume_2026.pdf",
+      "description": "Curated curriculum vitae detailing 8+ years of commercial video directing, film color grading, awards, client roster, and technical proficiencies.",
+      "category": "Resumes & CV",
+      "url": "/api/documents/download/resume",
+      "fileName": "Dhinesh_Kumar_Creative_Director_Resume_2026.pdf",
+      "fileExtension": "pdf",
+      "sizeBytes": 1840000,
+      "mimeType": "application/pdf",
+      "downloadCount": 142,
+      "featured": true,
+      "createdAt": "2026-11-08T13:07:24.037Z",
+      "tags": [
+        "Resume",
+        "Curriculum Vitae",
+        "Credentials"
+      ]
+    },
+    {
+      "id": "doc-2",
+      "type": "document",
+      "title": "Commercial_Production_Standard_Rate_Card.xlsx",
+      "description": "Transparent pricing matrix covering half-day/full-day director rates, DaVinci Resolve color grading suites, drone cinematography packages, and licensing.",
+      "category": "Contracts & Rates",
+      "url": "/api/documents/download/rates",
+      "fileName": "Commercial_Production_Standard_Rate_Card.xlsx",
+      "fileExtension": "xlsx",
+      "sizeBytes": 540000,
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "downloadCount": 89,
+      "featured": true,
+      "createdAt": "2026-10-26T13:07:24.037Z",
+      "tags": [
+        "Rates",
+        "Estimates",
+        "Commercial",
+        "Production"
+      ]
+    },
+    {
+      "id": "doc-3",
+      "type": "document",
+      "title": "Client_NDA_Master_Service_Agreement.docx",
+      "description": "Standard intellectual property handover agreement, confidentiality clause, and deliverables approval protocol for commercial clients.",
+      "category": "Contracts & Rates",
+      "url": "/api/documents/download/agreement",
+      "fileName": "Client_NDA_Master_Service_Agreement.docx",
+      "fileExtension": "docx",
+      "sizeBytes": 320000,
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "downloadCount": 67,
+      "featured": false,
+      "createdAt": "2026-10-10T13:07:24.037Z",
+      "tags": [
+        "Legal",
+        "Contract",
+        "NDA",
+        "MSA"
+      ]
+    },
+    {
+      "id": "doc-4",
+      "type": "document",
+      "title": "LUT_Pack_FilmEmulation_Kodak_Fuji_RAW.zip",
+      "description": "Exclusive custom 3D LUT package designed by Dhinesh Kumar for Blackmagic Pocket Cinema Cameras, Sony FX3 S-Log3, and ARRI LogC3.",
+      "category": "Tech Specs",
+      "url": "/api/documents/download/lutpack",
+      "fileName": "LUT_Pack_FilmEmulation_Kodak_Fuji_RAW.zip",
+      "fileExtension": "zip",
+      "sizeBytes": 12400000,
+      "mimeType": "application/zip",
+      "downloadCount": 310,
+      "featured": true,
+      "createdAt": "2026-09-25T13:07:24.037Z",
+      "tags": [
+        "LUTs",
+        "Color Grading",
+        "Assets",
+        "LogC3"
+      ]
+    }
+  ]
+}
